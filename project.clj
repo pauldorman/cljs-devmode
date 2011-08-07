@@ -1,6 +1,6 @@
-(defproject cljs-devmode "0.1.0-SNAPSHOT"
+(defproject org.clojars.pntblnk/cljs-devmode "0.1.0-SNAPSHOT"
   :description "A development mode for ClojureScript"
-  :url "https://github.com/maxweber/cljs-devmode"
+  :url "https://github.com/pauldorman/cljs-devmode"
   :dependencies [[org.clojure/clojure "1.2.1"]
                  [clj-http "0.1.3"]]
   :dev-dependencies [[compojure "0.6.5"]
